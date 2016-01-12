@@ -6,7 +6,9 @@ Open Ardbir is an open source SW (up to release 2.8.3) to control and automate b
 
 There are few open source HW board available (brauduino) supporting the SW either designed as shield on top of Arduino Board or stand alone board (all in one board). This repository include PCB and SCHEMA for the basic Arduino Uno shield 
 
+![Alt text](https://github.com/arzaman/Open-ArdBir---Arduino-UNO-shield/blob/master/ArdBir%20Shield.png)
 
+![Alt text](https://raw.githubusercontent.com/arzaman/Open-ArdBir---Arduino-UNO-shield/master/ArdBir%20schema.png)
 
 
 Enjoy and feel free to modify/fork the project
